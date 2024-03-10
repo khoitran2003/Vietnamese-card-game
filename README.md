@@ -59,7 +59,7 @@ Secondly, you need to creat Python virtual environment to try this model
 - Create venv: `python3 -m venv cards_yolov5`
 - Activate venv: `source cards_yolov5/bin/activate`
 
-Thirthly, you need to install requirement packages
+Thirdly, you need to install requirement packages
 
 - `pip/pip3 install -r requirements.txt`
 
