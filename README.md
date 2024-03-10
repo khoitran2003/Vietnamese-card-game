@@ -29,7 +29,7 @@ I introduce YOLOv5s model with [PlayingCards](https://universe.roboflow.com/auto
 
 | Model   | Size (pixels) | mAP<sup>val 50-95 | mAP<sup>val 50 | Parameters (M) |
 | ------- | ------------- | ----------------- | -------------- | -------------- |
-| YOLOv5s | **640**       | **0.78**          | **0.995**      | **1.9**        |
+| YOLOv5s | **640**       | **0.78**          | **0.995**      | **7.2**        |
 
 ## Usage (can be run by CPU/GPU)
 
