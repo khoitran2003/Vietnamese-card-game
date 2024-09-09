@@ -38,7 +38,7 @@ Firstly, you need to clone this repository
 - Open terminal
 - Creat new folder: `mkdir cards_yolov5`
 - Move to folder: `cd cards_yolov5`
-- Clone repository: `git clone https://github.com/khoitran2003/YOLOv5_Vietnamese_Card_Game`
+- Clone repository: `git clone https://github.com/khoitran2003/Vietnamese-card-game`
 
 Secondly, you need to creat Python virtual environment to try this model
 
