@@ -4,8 +4,9 @@
 
 I introduce YOLOv5s model with [PlayingCards](https://universe.roboflow.com/autoproject/betercarddetector/dataset/9) dataset. This model could be used to detect different hand in Vietnamese card game such as Thirteen, Baccarat and Blackjack
 
+<b>PLEASE WAITING FOR VIDEO LOADING</b>
+
 <p align="center">
-  PLEASE WAITING FOR VIDEO LOADING 
   <img src="demo/cao demo.gif" width=600><br/>
   <i>Baccarat (Ba Cao)</i>
 </p>
